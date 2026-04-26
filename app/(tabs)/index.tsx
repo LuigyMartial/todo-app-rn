@@ -1,7 +1,5 @@
 import {View, Text, StyleSheet, TouchableOpacity} from "react-native";
-import useTheme, {ColorScheme} from "@/app/hooks/useTheme";
-
-
+import useTheme, {ColorScheme} from "@/hooks/useTheme";
 
 
 export default function Index(){

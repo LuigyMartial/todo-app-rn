@@ -45,5 +45,8 @@ app-example
 /ios
 /android
 
+hooks
+assets/styles
+
 .agents
 .claude
